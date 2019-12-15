@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+	<soap:Body>
+		<ent:getEntityResponse xmlns:ent="http://wandrell.com/example/ws/entity">
+			<return>
+				<id>1</id>
+				<name>entity_1</name>
+			</return>
+		</ent:getEntityResponse>
+	</soap:Body>
+</soap:Envelope>
