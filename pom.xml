@@ -39,7 +39,7 @@
       <jaxb.version>2.2.12</jaxb.version>
       <cxf.api.version>2.7.18</cxf.api.version>
 
-       <junit.version>4.12</junit.version>       
+       <junit.version>4.13.1</junit.version>       
        
         <testng.version>6.9.10</testng.version>         		
 	</properties>
